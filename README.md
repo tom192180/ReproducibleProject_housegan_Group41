@@ -46,9 +46,9 @@ Step 5: Change the room_path in variation_bbs_with_target_graph_segments_suppl.p
 Step 6: In the smae py file as step 5, add the file name of tranid model into the following variable.
 * checkpoint = './checkpoints/{}_{}_{}.pth'.format(exp_name, target_set, numb_iters).
 
-Step 7: In the smae py file as step 5, replace the orignal code
+Step 7: In the smae py file as step 5, original:
 * generator.load_state_dict(torch.load(checkpoint)) 
-with 
+with the original one with the following one:
 * generator.load_state_dict(torch.load(checkpoint)['model_state_dict'])
 
 Step 8: Run * python variation_bbs_with_target_graph_segments_suppl.py
