@@ -12,7 +12,7 @@ The original model is from the paper: House-GAN: Relational Generative Adversari
 
 
 
-# Training these model files:
+# Training these variant models:
 
 Step 1 : Download the complete codes from original source through the following command. 
 * git clone https://github.com/ennauata/housegan.git
