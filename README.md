@@ -29,7 +29,7 @@ Step 5: Change the path in main.py to the path of the folder containing train_da
 Step 6: Run the following codes
 * python main.py --n_epochs 20
 
-# Source
+# Citation
 
 @inproceedings{nauata2020house,
   title={House-gan: Relational generative adversarial networks for graph-constrained house layout generation},
@@ -39,3 +39,7 @@ Step 6: Run the following codes
   year={2020},
   organization={Springer}
 }
+
+# Source
+
+ https://github.com/ennauata/housegan
