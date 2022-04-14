@@ -3,7 +3,7 @@
 
 This is reproducible project of group 41.
 
-For the course Deep Learning (CS4240), we do reproducible project by tuning the architectures of the original model.
+For the course Deep Learning (CS4240), we do reproducible project by tuning the architectures of the original model. We have four variant models.
 
 
 The original model is from the paper: House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation, ECCV 2020 (Link: https://github.com/ennauata/housegan).
