@@ -40,6 +40,6 @@ Step 6: Run the following command
   organization={Springer}
 }
 
-# Source
+# Link (Original Paper)
 
  https://github.com/ennauata/housegan
