@@ -1,6 +1,5 @@
 # ReproducibleProject_housegan_Group41
 
-# reproducible_project_housegan
 
 This is reproducible project of group 41.
 
