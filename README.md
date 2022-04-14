@@ -26,7 +26,7 @@ Step 4: Rename the name of training data from housegan_clean_data.npy?dl=0 to tr
 
 Step 5: Change the path in main.py to the path of the folder containing train_data.npy. 
 
-Step 6: Run the following codes
+Step 6: Run the following command
 * python main.py --n_epochs 20
 
 # Citation
