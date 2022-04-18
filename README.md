@@ -1,7 +1,7 @@
 # ReproducibleProject_housegan_Group41
 
 
-See the blog for the blog of the housegan project (https://hackmd.io/YsemSYOzR26Ld_EVObKMJg?view).
+See the blog for the blog of the reproducible project (https://hackmd.io/YsemSYOzR26Ld_EVObKMJg?view).
 
 This is reproducible project of group 41.
 
