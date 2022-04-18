@@ -1,6 +1,8 @@
 # ReproducibleProject_housegan_Group41
 
 
+See the blog for the detail of the project (https://hackmd.io/YsemSYOzR26Ld_EVObKMJg?view).
+
 This is reproducible project of group 41.
 
 For the course Deep Learning (CS4240), we do reproducible project by tuning the architectures of the original model. We have four variant models.
